@@ -1932,6 +1932,6 @@
 			"description": "Plugin to directly interact with ESPHome and easily manage related projects workflows in Windows environment.",
 			"author": "Andrea Tiburzi",
 			"homepage": "https://github.com/atiburzi/NppESPHome-Plugin"
-		}		
+		}
 	]
 }
