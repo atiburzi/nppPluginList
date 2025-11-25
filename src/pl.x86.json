@@ -1927,7 +1927,7 @@
 			"display-name": "NppESPHome",
 			"version": "1.0.26",
 			"npp-compatible-versions": "[8.8.7,]",
-			"id": "157ce81633af1982be898831ef98fea884d8ebe96e4982dc32f8c6b9a412adc1",
+			"id": "b240535c3f5601192b5dd5f0a7b86c67b0909de275aa6f8d5a5a5b195318202a",
 			"repository": "https://github.com/atiburzi/NppESPHome-Plugin/releases/download/v1.0.26/NppESPHome_x32.zip",
 			"description": "Plugin to directly interact with ESPHome and easily manage related projects workflows in Windows environment.",
 			"author": "Andrea Tiburzi",
